@@ -1,6 +1,21 @@
 @charset "utf-8";
 
 /*CSS file for Cassaundra Caldwell's portfolio*/
+#nameLogo {
+  max-width: 80%;
+  height: auto;
+}
+
+#miniLogo {
+  max-width: 80%;
+  height: auto;
+}
+
+#diabetesLogo {
+  max-width: 80%;
+  height: auto;
+}
+
 .headTitles {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 22px;
