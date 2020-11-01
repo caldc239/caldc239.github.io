@@ -3,17 +3,11 @@
 /*CSS file for Cassaundra Caldwell's portfolio*/
 #nameLogo {
   max-width: 80%;
-  height: auto;
-}
-
-#miniLogo {
-  max-width: 80%;
-  height: auto;
+  height: 100%;
 }
 
 #diabetesLogo {
   max-width: 80%;
-  height: auto;
 }
 
 .headTitles {
@@ -35,3 +29,5 @@ p {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.
