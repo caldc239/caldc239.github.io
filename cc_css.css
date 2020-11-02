@@ -6,8 +6,9 @@
   height: 100%;
 }
 
-#diabetesLogo {
-  max-width: 80%;
+.icon img {
+  height: 108px;
+  width: 90px;
 }
 
 .headTitles {
@@ -29,5 +30,3 @@ p {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
-.
