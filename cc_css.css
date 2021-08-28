@@ -9,6 +9,7 @@
 .icon img {
   height: 108px;
   width: 90px;
+  object-fit: contain;
 }
 
 .headTitles {
@@ -24,4 +25,8 @@ p {
 .col-md-8,
 .col-md-4 {
   padding-top: 20px;
+}
+
+.info {
+  display: none;
 }
