@@ -46,3 +46,21 @@ p {
   z-index: 9;
   background: white;
 }
+
+.popup img {
+  height: auto;
+  width: 80%;
+  object-fit: contain;
+}
+
+.close-button {
+  float: right;
+}
+
+@media only screen and (min-width: 600px) {
+  .popup img {
+    height: auto;
+    width: 35%;
+    object-fit: contain;
+  }
+}

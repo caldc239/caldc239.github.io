@@ -24,3 +24,7 @@ $(document).mouseup(function(e) {
 function showInfo(id) {
 	$('#' + id + 'Popup').show();
 }
+
+function hideInfo() {
+	$('.popup').hide();
+}
