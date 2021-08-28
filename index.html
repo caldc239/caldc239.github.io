@@ -13,8 +13,7 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
-    <!-- Custom JS and CSS files -->
-    <script src="cc_js.js"></script>
+    <!-- Custom CSS files -->
     <link rel="stylesheet" href="cc_css.css">
   </head>
 
@@ -44,23 +43,62 @@
           <div class="headTitles">Projects</div>
           <div class="row">
             <div class="col-md-3 text-center">
-              <div class="icon">
+              <div class="icon" id="portfolio">
                 <img src="images/cc_logo_2.svg" alternate="My logo" id="ccLogo">
               </div>
+              <div class="popup" id="portfolioPopup">
+                <p>
+                  <img src="images/name_logo.svg" alt="Cassaundra Caldwell" height="80">
+                  <br><br><i>HTML5, CSS, JavaScript, JQuery, Bootstrap</i>
+                  <br><br>A one-page portfolio styled after my resume to display my
+                  projects, education, and work experience.
+                </p>
+              </div>
             </div>
             <div class="col-md-3 text-center">
-              <div class="icon">
+              <div class="icon" id="movieMates">
                 <img src="images/moviemates_logo_people.svg" id="moviematesLogo">
               </div>
-            </div>
-            <div class="col-md-3 text-center">
-              <div class="icon">
-                <img src="images/critter_logo_1.svg" id="critterLogo">
+              <div class="popup" id="movieMatesPopup">
+                <p>
+                  <img src="images/moviemates_logo_people.svg">
+                  <br><br><i><b>HTML5, CSS, JavaScript, JQuery/JQuery Mobile</b></i>
+                  <br><br>A web app designed to track movies to watch, check them off
+                  once they have been watched, and share the watch list with
+                  friends. Utilizes Google OAuth, Firebase with the Firestore
+                  database, and RapidAPI's Movie Database API. Check it out
+                  <a href="https://moviemates-318318.web.app">here.</a>
+                </p>
               </div>
             </div>
             <div class="col-md-3 text-center">
-              <div class="icon">
+              <div class="icon" id="critterTracker">
+                <img src="images/critter_logo_1.svg" id="critterLogo">
+              </div>
+              <div class="popup" id="critterTrackerPopup">
+                <p>
+                  <img src="images/critter_logo_1.svg" height="90">
+                  <br><br><i><b>HTML5, CSS, JavaScript, JQuery, JSON</b></i>
+                  <br><br>A web app for tracking the critters and collectibles found
+                  in Animal Crossing &trade: New Horizons. It auto-completes
+                  suggestions upon typing, adds and subtracts quantities, and
+                  utilizes JSON local storage.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-3 text-center">
+              <div class="icon" id="bgTracker">
                 <img src="images/bg_tracker.png" alternate="Blood Glucose Tracker" id="diabetesLogo">
+              </div>
+              <div class="popup" id="bgTrackerPopup">
+                <p>
+                  <img src="images/bg_tracker.png" alternate="Blood Glucose Tracker" height="90">
+                  <br><br><i><b>HTML5, CSS, JavaScript, JQuery/JQuery Mobile</b></i>
+                  <br><br>A responsive mobile app to track A1C and blood glucose
+                  levels over time. There is a user login, password and form
+                  validation, and local storage. It utilizes RGraph to display
+                  data over time.
+                </p>
               </div>
             </div>
           </div>
@@ -70,7 +108,7 @@
         <div class="col-md-4">
           <div class="headTitles">Education</div>
           <span><b>Wilmington University</b></span>
-          <p><i>BS Computer Science <br> 2019-2021</i></p>
+          <p><i>BS Computer Science <br> Data Analysis Certificate <br> 2019-2021</i></p>
           <span><b>Auburn University</b></span>
           <p><i>BA Music Performance <br> 2010-2014</i></p>
         </div>
@@ -130,6 +168,9 @@
       </div>
     </div>
 
+    <!-- Custom JS -->
+    <script src="cc_js.js"></script>
+
     <!-- Optional JavaScript to cooperate with Bootstrap
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -137,10 +178,8 @@
   </body>
 
   <!-- TODO:
- add MM
  adjust photos
  hidden divs for popups with info
- change logo?
  animate project & work divs on hover -->
 
 </html>
