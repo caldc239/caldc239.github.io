@@ -10,6 +10,7 @@
   height: 108px;
   width: 90px;
   object-fit: contain;
+  cursor: pointer;
 }
 
 .headTitles {
