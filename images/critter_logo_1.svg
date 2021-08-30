@@ -14,9 +14,9 @@
    sodipodi:docname="critter_logo_1.svg"
    id="svg1615"
    version="1.1"
-   width="128.848"
-   height="58.363"
-   viewBox="0 0 34.091 15.442">
+   width="128.84326"
+   height="57.336933"
+   viewBox="0 0 34.089744 15.170518">
   <metadata
      id="metadata1621">
     <rdf:RDF>
@@ -33,12 +33,12 @@
      id="defs1619" />
   <sodipodi:namedview
      inkscape:current-layer="svg1615"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:cy="29.181499"
-     inkscape:cx="64.424004"
-     inkscape:zoom="8.5061463"
+     inkscape:cy="47.1648"
+     inkscape:cx="73.747936"
+     inkscape:zoom="4.2546304"
      showgrid="false"
      id="namedview1617"
      inkscape:window-height="847"
@@ -50,86 +50,111 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
-  <text
-     id="text1591"
-     fill="#000"
-     font-family="sans-serif"
-     font-size="10.583"
-     xml:space="preserve"
-     x="57.16"
-     y="126.816"><tspan
-       id="tspan1589"
-       font-family="FinkHeavy"
-       font-weight="normal"
-       x="-0.212"
-       y="15.241">tracker</tspan></text>
-  <text
-     id="text1595"
-     fill="#000"
-     font-family="sans-serif"
-     font-size="10.583"
-     xml:space="preserve"
-     x="58.763"
-     y="119.043"><tspan
-       id="tspan1593"
-       font-family="FinkHeavy"
-       font-weight="normal"
-       x="1.391"
-       y="7.468">critter</tspan></text>
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false" />
   <ellipse
      id="ellipse1597"
-     fill="#fff"
-     ry=".877"
-     rx=".928"
-     cy="1.737"
-     cx="12.38" />
-  <ellipse
-     id="ellipse1599"
-     cx="1.819"
-     cy="131.636"
-     rx=".334"
-     ry="1"
-     transform="matrix(.854254 -.519855 .52389 .851786 -58.358 -109.467)" />
-  <ellipse
-     id="ellipse1601"
-     cx="-69.15"
-     cy="111.693"
-     rx=".271"
-     ry=".485"
-     transform="matrix(.442364 -.896836 .898686 .438592 -58.358 -109.467)" />
-  <ellipse
-     id="ellipse1603"
-     cx="64.044"
-     cy="115.362"
-     rx=".284"
-     ry=".518"
-     transform="matrix(.998559 -.053658 .054229 .998529 -58.358 -109.467)" />
-  <ellipse
-     id="ellipse1605"
-     transform="matrix(-.999864 -.016492 -.016668 .999861 -58.358 -109.467)"
-     ry=".483"
-     rx=".272"
-     cy="109.209"
-     cx="-72.557" />
-  <ellipse
-     id="ellipse1607"
-     transform="matrix(-.574729 .818344 .908373 .41816 -58.358 -109.467)"
-     ry=".55"
-     rx=".336"
-     cy="124.101"
-     cx="72.348" />
+     fill="#ffffff"
+     ry="0.87699997"
+     rx="0.92799997"
+     cy="-1.1465548"
+     cx="12.131276" />
   <g
-     id="g1613"
-     stroke-miterlimit="0"
-     stroke-width=".059"
-     stroke="#000"
-     fill="none">
-    <path
-       id="path1609"
-       d="M11.72 1.042c-.01-.102-.004-.217-.027-.315-.035-.152-.027.054-.042-.113-.001-.01.02-.03.008-.032s-.017.038-.008.032.03-.073.016-.065c-.007.005.006.024.012.02.015-.01.013-.035.028-.045.003-.002.01-.03.04-.025.008.002.006.024.012.02.025-.015-.124-.064.04-.025.015.004.01.036.025.04.043.01 0-.046.033.008" />
-    <path
-       id="path1611"
-       d="M11.764 1.036c-.087-.056-.193-.103-.27-.167-.12-.1.06.001-.082-.088-.01-.006-.035.004-.033-.008s.042.002.033.008-.08-.007-.065-.016c.007-.005.02.016.012.02-.015.01-.038-.005-.053.005-.003.002-.033-.005-.04.025-.002.008.02.016.012.02-.025.015-.001-.14-.04.025-.004.015.028.025.025.04-.01.043-.04-.02-.008.032" />
+     transform="translate(-0.43549775,-0.31105194)"
+     id="g104">
+    <text
+       y="126.85549"
+       x="57.595688"
+       xml:space="preserve"
+       font-size="10.583px"
+       font-family="sans-serif"
+       fill="#000000"
+       id="text1591"><tspan
+         y="15.280493"
+         x="0.22368383"
+         font-weight="normal"
+         font-family="FinkHeavy"
+         id="tspan1589">tracker</tspan></text>
+    <g
+       id="g70">
+      <text
+         id="text1595"
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="10.583px"
+         xml:space="preserve"
+         x="59.198689"
+         y="119.08249"><tspan
+           id="tspan1593"
+           font-family="FinkHeavy"
+           font-weight="normal"
+           x="1.8266839"
+           y="7.5074921">critter</tspan></text>
+      <ellipse
+         ry="0.90205103"
+         rx="0.80873537"
+         cy="1.6485759"
+         cx="12.846297"
+         id="path65"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.365004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9" />
+    </g>
+    <g
+       id="g35"
+       transform="translate(0.40436762,0.27994692)">
+      <ellipse
+         id="ellipse1599"
+         cx="9.6016722"
+         cy="7.5523748"
+         rx="0.33399984"
+         ry="1.0000001"
+         transform="matrix(0.85425438,-0.51985523,0.52388997,0.85178595,0,0)" />
+      <ellipse
+         id="ellipse1601"
+         cx="3.8758855"
+         cy="10.810363"
+         rx="0.27100009"
+         ry="0.4849999"
+         transform="matrix(0.44236384,-0.89683568,0.89868624,0.43859212,0,0)" />
+      <ellipse
+         id="ellipse1603"
+         cx="11.723059"
+         cy="2.6502051"
+         rx="0.28399989"
+         ry="0.51800025"
+         transform="matrix(0.99855937,-0.05365802,0.05422897,0.99852853,0,0)" />
+      <ellipse
+         id="ellipse1605"
+         transform="matrix(-0.999864,-0.016492,-0.016668,0.99986108,0,0)"
+         ry="0.48299998"
+         rx="0.27200001"
+         cy="0.44779065"
+         cx="-12.378194" />
+      <ellipse
+         id="ellipse1607"
+         transform="matrix(-0.57472891,0.81834387,0.90837332,0.41816015,0,0)"
+         ry="0.54999983"
+         rx="0.33600006"
+         cy="11.436792"
+         cx="-4.1808171" />
+      <g
+         id="g1613"
+         stroke-miterlimit="0"
+         stroke-width="0.059"
+         stroke="#000000"
+         fill="none"
+         transform="translate(2.1092561e-4,-0.27156001)">
+        <path
+           id="path1609"
+           d="M 11.72,1.042 C 11.71,0.94 11.716,0.825 11.693,0.727 11.658,0.575 11.666,0.781 11.651,0.614 11.65,0.604 11.671,0.584 11.659,0.582 11.647,0.58 11.642,0.62 11.651,0.614 c 0.009,-0.006 0.03,-0.073 0.016,-0.065 -0.007,0.005 0.006,0.024 0.012,0.02 0.015,-0.01 0.013,-0.035 0.028,-0.045 0.003,-0.002 0.01,-0.03 0.04,-0.025 0.008,0.002 0.006,0.024 0.012,0.02 0.025,-0.015 -0.124,-0.064 0.04,-0.025 0.015,0.004 0.01,0.036 0.025,0.04 0.043,0.01 0,-0.046 0.033,0.008" />
+        <path
+           id="path1611"
+           d="M 11.764,1.036 C 11.677,0.98 11.571,0.933 11.494,0.869 c -0.12,-0.1 0.06,0.001 -0.082,-0.088 -0.01,-0.006 -0.035,0.004 -0.033,-0.008 0.002,-0.012 0.042,0.002 0.033,0.008 -0.009,0.006 -0.08,-0.007 -0.065,-0.016 0.007,-0.005 0.02,0.016 0.012,0.02 -0.015,0.01 -0.038,-0.005 -0.053,0.005 -0.003,0.002 -0.033,-0.005 -0.04,0.025 -0.002,0.008 0.02,0.016 0.012,0.02 -0.025,0.015 -0.001,-0.14 -0.04,0.025 -0.004,0.015 0.028,0.025 0.025,0.04 -0.01,0.043 -0.04,-0.02 -0.008,0.032" />
+      </g>
+    </g>
   </g>
 </svg>
